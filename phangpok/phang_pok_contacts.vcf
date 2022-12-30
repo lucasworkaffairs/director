@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Phang Pok
+N:Pok;Phang ;;;
+item1.EMAIL;TYPE=INTERNET:phangpok@ppgpahk.com
+item1.X-ABLabel:
+item2.EMAIL;TYPE=INTERNET:pp827pp@gmail.com
+item2.X-ABLabel:
+item3.EMAIL;TYPE=INTERNET:Pp827pp@outlook.com
+item3.X-ABLabel:
+item4.TEL:9668 0141
+item4.X-ABLabel:
+item5.ORG:PPGPAHK
+item5.X-ABLabel:
+item6.TITLE:Founder
+item6.X-ABLabel:
+BDAY:--0827
+CATEGORIES:myContacts
+END:VCARD
