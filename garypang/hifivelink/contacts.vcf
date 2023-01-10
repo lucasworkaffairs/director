@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Gary Pang
+N:Pang;Gary;;;
+item1.EMAIL;TYPE=INTERNET:garypang@hifivelink.com
+item1.X-ABLabel:
+item2.TEL:5615 9091
+item2.X-ABLabel:
+item3.ORG:HiFive Link
+item3.X-ABLabel:
+item4.TITLE:Founder
+item4.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
