@@ -109,35 +109,33 @@
                 <script>
                     var mm_counter = 1
 
-                    document
-                                .getElementById("menu")
-                                .style
-                                .visibility = "hidden";
+  
 
-                    function mm_menu_click() {
-                        mm_counter++;
+function mm_menu_click() {
+    mm_counter++;
 
-                        if (mm_counter % 2 == 0) {
+    if (mm_counter % 2 == 0) {
 
-                            document
-                                .getElementById("menu")
-                                .style
-                                .removeProperty('visibility');
-               
+        document
+            .getElementById("menu")
+            .style
+            .visibility = "visible";
 
-                        } else if (mm_counter % 2 != 0) {
 
-                            document
-                                .getElementById("menu")
-                                .style
-                                .visibility = "hidden";
-                      
 
-                        }
+    } else if (mm_counter % 2 != 0) {
 
-               
+        document
+            .getElementById("menu")
+            .style
+            .visibility = "hidden";
+  
 
-                    }
+    }
+
+
+
+}
                 </script>
 
                 <img src="Web_logo.png" style="width:40%">
