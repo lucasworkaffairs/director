@@ -1,19 +1,19 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Phang Pok
-N:Pok;Phang ;;;
+FN:彭博 Phang Pok (Nico)
+N:;彭博 Phang Pok (Nico);;;
 item1.EMAIL;TYPE=INTERNET:phangpok@hifivelink.com
 item1.X-ABLabel:
 item2.EMAIL;TYPE=INTERNET:pp827pp@gmail.com
 item2.X-ABLabel:
 item3.EMAIL;TYPE=INTERNET:Pp827pp@outlook.com
 item3.X-ABLabel:
-item4.TEL:9668 0141
+TEL;TYPE=MAIN:9668 0141
+TEL;TYPE=WORK:5177 1557
+item4.ORG:HiFive Link
 item4.X-ABLabel:
-item5.ORG:HiFive Link
+item5.TITLE:Founder
 item5.X-ABLabel:
-item6.TITLE:Founder
-item6.X-ABLabel:
 BDAY:--0827
 CATEGORIES:myContacts
 END:VCARD
