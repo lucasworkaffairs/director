@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:彭博 Phang Pok (Nico)
+N:;彭博 Phang Pok (Nico);;;
+item1.EMAIL;TYPE=INTERNET:phang.pok@harris-fraser.com
+item1.X-ABLabel:
+item2.EMAIL;TYPE=INTERNET:pp827pp@gmail.com
+item2.X-ABLabel:
+item3.EMAIL;TYPE=INTERNET:Pp827pp@outlook.com
+item3.X-ABLabel:
+TEL;TYPE=MAIN:9668 0141
+TEL;TYPE=WORK:2827 2278
+item4.ADR:;Wan Chai Hong Kong;Unit 2101\, 21/F\, Office Tower\, Convention 
+ Plaza No. 1 Harbour Road;;;;HK;Unit 2101\, 21/F\, Office Tower\, Conventio
+ n Plaza No. 1 Harbour Road\nWan Chai Hong Kong\nHK
+item4.X-ABLabel:
+item5.ORG:Harris Fraser Group 晉裕集團
+item5.X-ABLabel:
+item6.TITLE:Vice President - Wealth Planning
+item6.X-ABLabel:
+BDAY:--0827
+CATEGORIES:myContacts
+END:VCARD
