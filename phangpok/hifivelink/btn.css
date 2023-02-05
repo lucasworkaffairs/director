@@ -34,26 +34,6 @@
 
 }
 
-.btn4{
-line-height: 1em;
-background-color: #c92a23; 
-position: relative;
-border: none;
-border-radius: 5%;
-color: white;
-
-display: flex;
-justify-content: space-around;
-/* text-align: center; */
-text-decoration: none;
-/* display: inline-block; */
-box-shadow: 0 2px 8px -1px rgb(21 25 36);
-width: 15em;
-
-
-
-}
-
 .btn5{
     line-height: 1em;
     background-color: #ffffff; 
@@ -73,7 +53,27 @@ width: 15em;
     
     
     }
-    
+
+
+.btn4{
+line-height: 1em;
+background-color: #c92a23; 
+position: relative;
+border: none;
+border-radius: 5%;
+color: white;
+
+display: flex;
+justify-content: space-around;
+/* text-align: center; */
+text-decoration: none;
+/* display: inline-block; */
+box-shadow: 0 2px 8px -1px rgb(21 25 36);
+width: 15em;
+
+
+
+}
 
 
 
