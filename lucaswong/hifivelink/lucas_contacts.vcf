@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Lucas Wong
+N:Wong;Lucas;;;
+item1.EMAIL;TYPE=INTERNET:lucasworkhk@gmail.com
+item1.X-ABLabel:
+item2.EMAIL;TYPE=INTERNET:lucaswong@hifivelink.com
+item2.X-ABLabel:
+item3.TEL:6633 7783
+item3.X-ABLabel:
+item4.ORG:HiFive Link
+item4.X-ABLabel:
+item5.TITLE:Founder
+item5.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AOq4LdZyiCWCup4emBWIuuPGGZ
+ ELP7MutOMFTsordb3OTr1EP1OMv4-W
+CATEGORIES:myContacts
+END:VCARD
